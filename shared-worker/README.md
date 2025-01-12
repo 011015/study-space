@@ -1,15 +1,15 @@
 # Shared Worker Demo
 
-This demo shows how to communicate between multiple same-origin tabs using `Shared Worker`.
+This demo demonstrates how to enable communication between multiple same-origin tabs using a `Shared Worker`.
 
 ## showcase
 
-[open home page](https://011015.github.io/study-space/shared-worker/index.html)  
-[open user1 page](https://011015.github.io/study-space/shared-worker/index1.html)  
-[open user2 page](https://011015.github.io/study-space/shared-worker/index2.html)
+[Open the home page](https://011015.github.io/study-space/shared-worker/index.html)  
+[Open the user1 page](https://011015.github.io/study-space/shared-worker/index1.html)  
+[Open the user2 page](https://011015.github.io/study-space/shared-worker/index2.html)
 
 ## description
 
-1. open home page.
-2. open user1 page and user2 page, and then comment separately.
-3. You can see all comments on the home page. On the user1 page, you can see comments from user1 or user2. Similarly, on the user2 page, you can see comments from user2 or user1.
+1. Open the home page.
+2. Open the user1 page and the user2 page, then post comments on each page separately.
+3. On the home page, you can view all the comments. On the user1 page, you can see comments from both user1 and user2. Similarly, on the user2 page, you can see comments from both user2 and user1.

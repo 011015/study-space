@@ -1,3 +1,3 @@
 # My Study Space
 
-In this repository, I wrote some sample codes to learn web technologies. My goal is to strengthen my front-end skills.
+This repository contains sample code aimed at exploring and learning various web technologies. The primary goal is to enhance and strengthen my front-end development skills.

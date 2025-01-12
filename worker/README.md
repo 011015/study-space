@@ -1,13 +1,13 @@
 # Worker Demo
 
-This demo shows how to use `Worker` to run a long-time task in background thread, and prevent blocking main thread.
+This demo demonstrates how to use a `Worker` to run long-running tasks in a background thread, preventing the main thread from being blocked.
 
 ## showcase
 
-[open home page](https://011015.github.io/study-space/worker/index.html)
+[Open the home page](https://011015.github.io/study-space/worker/index.html)
 
 ## description
 
-1. open home page.
-2. click `start` button and see the animation effect.
-3. animation effect ends before you switch `optimize` button and click `block` button, to observe the difference between using Worker and not using Worker including `doing` and `done` state, animation effect and `INP` metric(available in Chrome DevTools).
+1. Open the home page.
+2. Click the `start` button to view the animation effect.
+3. Wait for the animation effect to finish before switching to the `optimize` button and clicking the `block` button. Observe the difference between using a Worker and not using a Worker, such as the transition from the `doing` state to the `done` state and the animation effect.
